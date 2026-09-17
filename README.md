@@ -46,3 +46,9 @@
 | 6 September    |              |                                                                                                 |                                             |       |
 | 7 September    | Teknisi      | Perbaikan kipas angin                                                                           | 08:15am - 09:55am                           |       |
 | 8 September    | Teknisi      | Perbaikan pc lab, pemasangan pc di bank mini Dan membuat jalur lan untuk bank mini Dan ruang bk | 08:00am - 01:20pm                           |       |
+| 9 September    |              |                                                                                                 |                                             |       |
+| 10 -12 September   | Teknisi      | install software office di lab                                                                  | 08:00am - 11:20am                           |       |
+| 13 September    |              |                                                                                                 |                                             |       |
+| 14 September    |              |                                                                                                 |                                             |       |
+| 15 September    |  Teknisi    |  install debian dan perbaikan lampu                                                             | 08:10am 09:30am                                            |       |
+| 16 September    |              |  merapihkan perpus                                                                   | 08:00am - 02-00pm      |

@@ -1,55 +1,42 @@
-# NOTE PKL
+# Jurnal Catatan Kegiatan PKL
 
-| Hari & tanggal     | Bidang kerja | Jenis kegiatan                                                                                  | waktu                                       | Paraf |
-| ------------------ | ------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------- | ----- |
-| 27 juli            |              | pengenalan alat (router, modem)                                                                 | 11:32am - 12:15pm                           |       |
-| 28 juli            |              | praktek nyambung FO                                                                             | 11:24am - 12:00pm                           |       |
-| 29 juli            | Teknisi      | Narik kabel, maintenance, installation (migrasi)                                                | 02:00pm - 04:56pm                           |       |
-| 30 juli            |              | beres beres tempat Dan pengecekan                                                               | 11:24am - 12:00pm                           |       |
-| 31 juli            |              |                                                                                                 |                                             |       |
-| 1 Agustus          |              |                                                                                                 |                                             |       |
-| 2 Agustus          |              |                                                                                                 |                                             |       |
-| 3 Agustus          |              |                                                                                                 |                                             |       |
-| 4 Agustus          | Teknisi      | Pemasangan wifi                                                                                 | 3:54pm - 5:55pm                             |       |
-| 5 Agustus          | Teknisi      | pengecekan pelanggan                                                                            | 11:47pm - 12:34pm                           |       |
-| 6 Agustus          |              |                                                                                                 |                                             |       |
-| 7 Agustus          |              |                                                                                                 |                                             |       |
-| 8 Agustus          |              |                                                                                                 |                                             |       |
-| 9 Agustus          |              |                                                                                                 |                                             |       |
-| 10 Agustus         | Teknisi      | pengecekan wifi pelanggan                                                                       | 10:33am - 10:44am                           |       |
-| 11 Agustus         |              |                                                                                                 |                                             |       |
-| 12 Agustus         |              |                                                                                                 |                                             |       |
-| 13 Agustus         | Teknisi      | Installasi wifi di perpus                                                                       |                                             |       |
-| 14 Agustus         | Teknisi      | 1. Bersih" casing komputer Dan, 2.testing nvr cctv                                              | 1. 09:00 pm - 09-57pm, 2. 01:00pm - 01:35pm |       |
-| 15 Agustus         |              |                                                                                                 |                                             |       |
-| 16 Agustus         |              |                                                                                                 |                                             |       |
-| 17 Agustus         |              |                                                                                                 |                                             |       |
-| 18 Agustus         |              |                                                                                                 |                                             |       |
-| 19 Agustus         | Teknisi      | Penarikan kabel utp Dan rakit pc                                                                | 09:05am - 11:50am                           |       |
-| 20 Agustus         |              |                                                                                                 |                                             |       |
-| 21 Agustus         |              |                                                                                                 |                                             |       |
-| 22 Agustus         | Teknisi      | Perbaikan pc Dan perbaikan cctv mati                                                            |                                             |       |
-| 23 Agustus         |              |                                                                                                 |                                             |       |
-| 24 Agustus         |              |                                                                                                 |                                             |       |
-| 25 Agustus         |              |                                                                                                 |                                             |       |
-| 26 Agustus         | Teknisi      | Rakit pc Dan belajar install ulang windows                                                      | 08:35am - 01:00pm                           |       |
-| 27 Agustus         | Teknisi      | pasang kabel utp ruang bk                                                                       | 08:36am - 09:10                             |       |
-| 28 Agustus         |              |                                                                                                 |                                             |       |
-| 29 Agustus         | Teknisi      | Install ulang windows lab Dan perbaikan pc                                                      | 08:00am - 01:30pm                           |       |
-| 30 Agustus         |              |                                                                                                 |                                             |       |
-| 31 Agustus         | Teknisi      | Install ulang windows lab Dan perbaikan pc                                                      | 08:10am - 01:45pm                           |       |
-| 1 September        | Teknisi      | Install ulang windows Dan perbaikan pc lab                                                      |                                             |       |
-| 2,3 September      | Teknisi      | Perbaikan pc lab                                                                                | 08:15am - 10:30am                           |       |
-| 4 September        |              |                                                                                                 |                                             |       |
-| 5 September        |              | Izin                                                                                            |                                             |       |
-| 6 September        |              |                                                                                                 |                                             |       |
-| 7 September        | Teknisi      | Perbaikan kipas angin                                                                           | 08:15am - 09:55am                           |       |
-| 8 September        | Teknisi      | Perbaikan pc lab, pemasangan pc di bank mini Dan membuat jalur lan untuk bank mini Dan ruang bk | 08:00am - 01:20pm                           |       |
-| 9 September        | Teknisi      | membersihkan lensa cctv Dan memperbaiki PC (ganti hdd)                                          | 08:00am - 02:00pm                           |       |
-| 10,11,12 September | Teknisi      | install ms office                                                                               | 08:00am - 02:00pm                           |       |
-| 14 September       |              |                                                                                                 |                                             |       |
-| 15 September       | Teknisi      | install debian Dan perbaikan lampu                                                              |                                             |       |
-| 16 September       |              |                                                                                                 |                                             |       |
-| 17 September       | Teknisi      | perpindahan router kelas                                                                        | 09:00am - 02:pm                             |       |
-| 18 September       |              |                                                                                                 |                                             |       |
-| 19 September       |              |                                                                                                 |                                             |       |
+| Hari & Tanggal | Bidang Kerja | Jenis Kegiatan | Waktu | Paraf |
+| --- | --- | --- | --- | --- |
+| 27 Juli | Teknisi | Pengenalan dan identifikasi perangkat jaringan (Router & Modem) | 11:32 - 12:15 | |
+| 28 Juli | Teknisi | Praktik penyambungan kabel Fiber Optik (*Splicing FO*) | 11:24 - 12:00 | |
+| 29 Juli | Teknisi | Penarikan kabel jaringan, pemeliharaan (*maintenance*), dan instalasi migrasi | 14:00 - 16:56 | |
+| 30 Juli | Teknisi | Pemeliharaan area kerja dan pengecekan perangkat jaringan | 11:24 - 12:00 | |
+| 31 Juli | - | *Tidak ada kegiatan / Libur* | - | |
+| 01 - 03 Agustus | - | *Tidak ada kegiatan / Libur* | - | |
+| 04 Agustus | Teknisi | Instalasi dan konfigurasi perangkat Wi-Fi | 15:54 - 17:55 | |
+| 05 Agustus | Teknisi | Pengecekan dan pemeliharaan jaringan pelanggan | 11:47 - 12:34 | |
+| 06 - 09 Agustus | - | *Tidak ada kegiatan / Libur* | - | |
+| 10 Agustus | Teknisi | *Troubleshooting* dan pengecekan koneksi Wi-Fi pelanggan | 10:33 - 10:44 | |
+| 11 - 12 Agustus | - | *Tidak ada kegiatan / Libur* | - | |
+| 13 Agustus | Teknisi | Instalasi dan penataan jaringan Wi-Fi di Perpustakaan | - | |
+| 14 Agustus | Teknisi | Pemeliharaan fisik (*cleaning casing*) komputer dan pengujian fungsi NVR CCTV | 09:00 - 09:57 & 13:00 - 13:35 | |
+| 15 - 18 Agustus | - | *Tidak ada kegiatan / Libur* | - | |
+| 19 Agustus | Teknisi | Penarikan kabel UTP dan perakitan unit komputer (PC) | 09:05 - 11:50 | |
+| 20 - 21 Agustus | - | *Tidak ada kegiatan / Libur* | - | |
+| 22 Agustus | Teknisi | Perbaikan *hardware* PC dan *troubleshooting* perangkat CCTV | - | |
+| 23 - 25 Agustus | - | *Tidak ada kegiatan / Libur* | - | |
+| 26 Agustus | Teknisi | Perakitan PC dan pembelajaran instalasi sistem operasi Windows | 08:35 - 13:00 | |
+| 27 Agustus | Teknisi | Pemasangan dan instalasi pengkabelan UTP di Ruang BK | 08:36 - 09:10 | |
+| 28 Agustus | - | *Tidak ada kegiatan / Libur* | - | |
+| 29 Agustus | Teknisi | Instalasi ulang sistem operasi Windows di laboratorium serta perbaikan PC | 08:00 - 13:30 | |
+| 30 Agustus | - | *Tidak ada kegiatan / Libur* | - | |
+| 31 Agustus | Teknisi | Instalasi ulang sistem operasi Windows di laboratorium serta perbaikan PC | 08:10 - 13:45 | |
+| 01 September | Teknisi | Instalasi ulang sistem operasi Windows serta perbaikan PC laboratorium | - | |
+| 02 - 03 September | Teknisi | Perbaikan dan pemeliharaan PC laboratorium | 08:15 - 10:30 | |
+| 04 September | - | *Tidak ada kegiatan / Libur* | - | |
+| 05 September | - | *Izin* | - | |
+| 06 September | - | *Tidak ada kegiatan / Libur* | - | |
+| 07 September | Teknisi | Perbaikan dan pemeliharaan kipas angin | 08:15 - 09:55 | |
+| 08 September | Teknisi | Perbaikan PC lab, instalasi PC Bank Mini, serta pembuatan jalur LAN (Bank Mini & Ruang BK) | 08:00 - 13:20 | |
+| 09 September | Teknisi | Pemeliharaan lensa CCTV dan perbaikan PC (penggantian Harddisk) | 08:00 - 14:00 | |
+| 10 - 12 September | Teknisi | Instalasi dan aktivasi perangkat lunak Microsoft Office | 08:00 - 14:00 | |
+| 13 - 14 September | - | *Tidak ada kegiatan / Libur* | - | |
+| 15 September | Teknisi | Instalasi sistem operasi Debian serta perbaikan instalasi penerangan/lampu | - | |
+| 16 September | - | *Tidak ada kegiatan / Libur* | - | |
+| 17 September | Teknisi | Relokasi dan konfigurasi ulang posisi router kelas | 09:00 - 14:00 | |
+| 18 - 19 September | - | *Tidak ada kegiatan / Libur* | - | |

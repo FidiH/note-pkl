@@ -13,7 +13,7 @@
 | 06 - 09 Agustus   | -            | *Tidak ada kegiatan / Libur*                                                               | -                             |       |
 | 10 Agustus        | Teknisi      | *Troubleshooting* dan pengecekan koneksi Wi-Fi pelanggan                                   | 10:33 - 10:44                 |       |
 | 11 - 12 Agustus   | -            | *Tidak ada kegiatan / Libur*                                                               | -                             |       |
-| 13 Agustus        | Teknisi      | Instalasi dan penataan jaringan Wi-Fi di Perpustakaan                                      | -                             |       |
+| 13 Agustus        | Teknisi      | Instalasi dan penataan jaringan Wi-Fi di Perpustakaan                                      | 09:00 - 10:00                 |       |
 | 14 Agustus        | Teknisi      | Pemeliharaan fisik (*cleaning casing*) komputer dan pengujian fungsi NVR CCTV              | 09:00 - 09:57 & 13:00 - 13:35 |       |
 | 15 - 18 Agustus   | -            | *Tidak ada kegiatan / Libur*                                                               | -                             |       |
 | 19 Agustus        | Teknisi      | Penarikan kabel UTP dan perakitan unit komputer (PC)                                       | 09:05 - 11:50                 |       |
@@ -26,7 +26,7 @@
 | 29 Agustus        | Teknisi      | Instalasi ulang sistem operasi Windows di laboratorium serta perbaikan PC                  | 08:00 - 13:30                 |       |
 | 30 Agustus        | -            | *Tidak ada kegiatan / Libur*                                                               | -                             |       |
 | 31 Agustus        | Teknisi      | Instalasi ulang sistem operasi Windows di laboratorium serta perbaikan PC                  | 08:10 - 13:45                 |       |
-| 01 September      | Teknisi      | Instalasi ulang sistem operasi Windows serta perbaikan PC laboratorium                     | -                             |       |
+| 01 September      | Teknisi      | Instalasi ulang sistem operasi Windows serta perbaikan PC laboratorium                     | 08:00 - 14:00                 |       |
 | 02 - 03 September | Teknisi      | Perbaikan dan pemeliharaan PC laboratorium                                                 | 08:15 - 10:30                 |       |
 | 04 September      | -            | *Tidak ada kegiatan / Libur*                                                               | -                             |       |
 | 05 September      | -            | *Izin*                                                                                     | -                             |       |

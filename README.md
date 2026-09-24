@@ -40,3 +40,5 @@
 | 16 September      | -            | *Tidak ada kegiatan / Libur*                                                               | -                             |       |
 | 17 September      | Teknisi      | Relokasi dan konfigurasi ulang posisi router kelas                                         | 09:00 - 14:00                 |       |
 | 18 - 19 September | -            | *Tidak ada kegiatan / Libur*                                                               | -                             |       |
+| 22 September      | Teknisi      | bantu pasang app untuk exam/tka di lab                                                     | 09:00 - 13:00                             |       |
+| 24 September      | Teknisi      | pasang router mikrotik di bang mini                                                        | 10:00 - 11:00                 |       |
